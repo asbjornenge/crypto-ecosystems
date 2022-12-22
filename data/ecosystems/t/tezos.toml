@@ -44,9 +44,41 @@ github_organizations = [
   "https://github.com/tezos-reward-distributor-organization",
   "https://github.com/tzbutton",
   "https://github.com/uconomy",
+  "https://github.com/tezid",
+  "https://github.com/chainborngame",
 ]
 
 # Repositories
+[[repo]]
+url = "https://github.com/chainborngame/creating-chainborn"
+
+[[repo]]
+url = "https://github.com/tezid/contracts"
+
+[[repo]]
+url = "https://github.com/tezid/docs"
+
+[[repo]]
+url = "https://github.com/tezid/tezos-merkletree"
+
+[[repo]]
+url = "https://github.com/tezid/tezos-wallet-component-menu-tezid"
+
+[[repo]]
+url = "https://github.com/tezid/proofs-component"
+
+[[repo]]
+url = "https://github.com/asbjornenge/tezos-string-from-bytes"
+
+[[repo]]
+url = "https://github.com/asbjornenge/tezos-randomizer-service"
+
+[[repo]]
+url = "https://github.com/asbjornenge/tezos-wallet-component"
+
+[[repo]]
+url = "https://github.com/asbjornenge/tezos-randomizer"
+
 [[repo]]
 url = "https://github.com/2nd-Layer/tezosupdates.2ndlayer.eu"
 
